@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: darkviolet;
+}
+#my slide{
+    margin-top: 35px;
+    height: 300px;
+}
+carousel inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+html{
+   
+    scroll-behavior: smooth; 
+}
